@@ -1,0 +1,11 @@
+
+name= "이성화"
+kor= 100
+eng= 99.8
+
+print(type(name))
+
+
+int_val=1.1
+b=int(int_val)
+print(type(b))
